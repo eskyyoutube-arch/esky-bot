@@ -1,0 +1,60 @@
+{
+  "inviteDatabase": {
+    "1304808757041168408": {
+      "joins": 2,
+      "leaves": 0,
+      "fake": 0,
+      "bonus": 0
+    },
+    "1135841902453858437": {
+      "joins": 1,
+      "leaves": 0,
+      "fake": 0,
+      "bonus": 0
+    },
+    "1483927915606442215": {
+      "joins": 1,
+      "leaves": 0,
+      "fake": 0,
+      "bonus": 0
+    }
+  },
+  "warnsDatabase": {
+    "1447576940427874376": [
+      {
+        "reason": "Aucune raison fournie",
+        "moderator": "esky.dzn",
+        "timestamp": 1783961032
+      }
+    ],
+    "1135543397092954142": [
+      {
+        "reason": "n'aime pas la belle belgique qui c'est fait volé cette coupe du monde par ce putain de lamine mes fesses",
+        "moderator": "esky.dzn",
+        "timestamp": 1784029981
+      }
+    ]
+  },
+  "economyDatabase": {
+    "1135841902453858437": 10000000000050,
+    "1216799481052401684": 67,
+    "1447576940427874376": 0,
+    "1411630836146503753": 0
+  },
+  "inventoryDatabase": {},
+  "dailyCooldown": {
+    "1135841902453858437": 1783843633060
+  },
+  "joinerInviter": {
+    "1392059097087606844": "1304808757041168408",
+    "1510396393502670989": "1304808757041168408",
+    "1411630836146503753": "1135841902453858437",
+    "1472543694728069284": "1483927915606442215"
+  },
+  "ticketStats": {
+    "opened": 0,
+    "closed": 0
+  },
+  "reactionRoles": {},
+  "faqDatabase": {}
+}
